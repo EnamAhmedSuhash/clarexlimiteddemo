@@ -1315,6 +1315,7 @@ About CSS
 
 .about-img .about-img1 {
   width: 60%;
+  z-index: -1;
   
 }
 
@@ -1322,9 +1323,9 @@ About CSS
   position: absolute;
   left: 70px;
   margin-left: 25%;
-  bottom: -82px;
-  height: 80%;
-  border-radius: 50%;
+  margin-top: 18%;
+  height: 60%;
+  border-radius: 100%;
 }
 
 .about-img .shape-img {
@@ -2091,7 +2092,8 @@ Project CSS
 .single-project .project-img img {
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  height: 200px;
+  height: 100px;
+  
 }
 
 .single-project .project-content {
@@ -2112,7 +2114,7 @@ Project CSS
   height: 0;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #ff0000;
+  background: #ff0000a8;
   z-index: -1;
 }
 
