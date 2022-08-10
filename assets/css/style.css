@@ -2093,7 +2093,7 @@ Project CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   height: 100px;
-  
+  width: 100px;
 }
 
 .single-project .project-content {
@@ -3015,7 +3015,8 @@ Team CSS
   position: relative;
   top: 0;
   border-radius: 50%;
-  height: 300px;
+  height: 200px;
+ 
 }
 
 .single-team .team-content {
