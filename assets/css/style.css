@@ -871,7 +871,7 @@ Main Banner CSS
 }
 
 .item-bg3 {
-  background-image: url(../../assets/img/slider.jpg);
+  background-image: url(../../assets/img/maybe.jpg);
 }
 
 .main-banner-content {
@@ -1489,6 +1489,7 @@ Services CSS
   position: relative;
   z-index: 1;
   padding: 40px;
+  border-radius: 0px 50px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -2094,6 +2095,7 @@ Project CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   height: 100px;
+  padding: 0% 10%;
 }
 
 .single-project .project-content {
