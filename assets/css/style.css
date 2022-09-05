@@ -862,14 +862,6 @@ Main Banner CSS
   }
 }
 
-.item-bg1 {
-  background-image: url(../../assets/img/man1.png);
-}
-
-.item-bg2 {
-  background-image: url(../../assets/img/beard-man.png);
-}
-
 .item-bg3 {
   background-image: url(../../assets/img/00-.jpg);
 }
@@ -884,7 +876,7 @@ Main Banner CSS
   line-height: 63px;
   padding: 8px 0;
   margin: 0;
-  font-size: 65px;
+  font-size: 45px;
   font-weight: 700;
 }
 
