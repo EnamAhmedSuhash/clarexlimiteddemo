@@ -871,7 +871,7 @@ Main Banner CSS
 }
 
 .item-bg3 {
-  background-image: url(../../assets/img/maybe.jpg);
+  background-image: url(../../assets/img/00-.jpg);
 }
 
 .main-banner-content {
@@ -7294,11 +7294,12 @@ Creative Partner Area CSS
 }
 
 .creative-partner-item a {
-  border: 1px solid #ffffff;
+  border: 2px solid #ffffff;
   padding: 25px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  background-color: #ffffff;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -7310,7 +7311,7 @@ Creative Partner Area CSS
 }
 
 .creative-partner-item a:hover {
-  border: 1px solid #c20202;
+  border: 2px solid #c20202;
 }
 
 .creative-partner-item a img {
