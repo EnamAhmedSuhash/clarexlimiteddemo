@@ -876,7 +876,7 @@ Main Banner CSS
   line-height: 63px;
   padding: 8px 0;
   margin: 0;
-  font-size: 45px;
+  font-size: 50px;
   font-weight: 700;
 }
 
@@ -2523,8 +2523,8 @@ Feedback CSS
   position: absolute;
   right: 15px;
   bottom: 200px;
-  background: #c20202;
-  color: #ffffff;
+  background: #c20202e7;
+  color: #ffffff71;
   padding: 20px 20px 20px 65px;
   border-radius: 45px;
 }
