@@ -1306,7 +1306,7 @@ About CSS
 }
 
 .about-img .about-img1 {
-  width: 60%;
+  width: 45%;
   z-index: -1;
   
 }
@@ -1314,17 +1314,17 @@ About CSS
 .about-img .about-img2 {
   position: absolute;
   left: 70px;
-  margin-left: 25%;
-  margin-top: 18%;
-  height: 60%;
-  border-radius: 100%;
+  margin-left: 40%;
+  margin-top: 13%;
+  height: 55%;
+  border-radius: 50%;
 }
 
 .about-img .shape-img {
   position: absolute;
   -webkit-animation: moveleftbounce 3s linear infinite;
           animation: moveleftbounce 3s linear infinite;
-  left: 30%;
+  left: 50%;
   top: 9%;
   height: 100px;
 }
