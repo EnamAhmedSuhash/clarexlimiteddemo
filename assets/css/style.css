@@ -862,16 +862,8 @@ Main Banner CSS
   }
 }
 
-.item-bg1 {
-  background-image: url(../../assets/img/man1.png);
-}
-
-.item-bg2 {
-  background-image: url(../../assets/img/beard-man.png);
-}
-
 .item-bg3 {
-  background-image: url(../../assets/img/slider.jpg);
+  background-image: url(../../assets/img/00-.jpg);
 }
 
 .main-banner-content {
@@ -884,7 +876,7 @@ Main Banner CSS
   line-height: 63px;
   padding: 8px 0;
   margin: 0;
-  font-size: 65px;
+  font-size: 50px;
   font-weight: 700;
 }
 
@@ -1314,7 +1306,7 @@ About CSS
 }
 
 .about-img .about-img1 {
-  width: 60%;
+  width: 45%;
   z-index: -1;
   
 }
@@ -1322,17 +1314,17 @@ About CSS
 .about-img .about-img2 {
   position: absolute;
   left: 70px;
-  margin-left: 25%;
-  margin-top: 18%;
-  height: 60%;
-  border-radius: 100%;
+  margin-left: 40%;
+  margin-top: 13%;
+  height: 55%;
+  border-radius: 50%;
 }
 
 .about-img .shape-img {
   position: absolute;
   -webkit-animation: moveleftbounce 3s linear infinite;
           animation: moveleftbounce 3s linear infinite;
-  left: 30%;
+  left: 50%;
   top: 9%;
   height: 100px;
 }
@@ -1489,6 +1481,7 @@ Services CSS
   position: relative;
   z-index: 1;
   padding: 40px;
+  border-radius: 0px 50px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -2094,6 +2087,7 @@ Project CSS
   -webkit-transition: 0.5s;
   transition: 0.5s;
   height: 100px;
+  padding: 0% 10%;
 }
 
 .single-project .project-content {
@@ -2529,8 +2523,8 @@ Feedback CSS
   position: absolute;
   right: 15px;
   bottom: 200px;
-  background: #c20202;
-  color: #ffffff;
+  background: #c20202e7;
+  color: #ffffff71;
   padding: 20px 20px 20px 65px;
   border-radius: 45px;
 }
@@ -7292,11 +7286,12 @@ Creative Partner Area CSS
 }
 
 .creative-partner-item a {
-  border: 1px solid #ffffff;
+  border: 2px solid #ffffff;
   padding: 25px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  background-color: #ffffff;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -7308,7 +7303,7 @@ Creative Partner Area CSS
 }
 
 .creative-partner-item a:hover {
-  border: 1px solid #c20202;
+  border: 2px solid #c20202;
 }
 
 .creative-partner-item a img {
